@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Body_text/Raleway-MediumItalic.ttf"), url("../fonts/Body_text/Raleway-Regular.ttf"), url("../fonts/Body_text/Raleway-SemiBold.ttf");
+}
+@font-face {
+  font-family:"KG Second Chances Solid";
+  src:url("../fonts/Main_font/KGSecondChancesSolid.eot") format("eot"),url("../fonts/Main_font/KGSecondChancesSolid.woff") format("woff"),url("../fonts/Main_font/KGSecondChancesSolid.ttf") format("truetype");font-weight:normal;font-style:normal;}
+.head-banner
+{
+  background-color: #67cbba;
+  height: 40px;
+  width: 100%;
+}
+.head-banner .logo 
+{
+  width: 150px;
+}
+.body-banner 
+{
+  background-image: url(../img/banner/banner-1920x409-text.jpg);
+  background-size: 191%;
+  width: 100%;
+  height: 150px;
+  border: 2px solid;
+  color: pink;
+  
+}
+
+.foot-banner 
+{
+  background-color: #59164a;
+  color: white;
+  font-family: "KG Second Chances Solid";
+  height: 70px;
+  width: 100%;
+  font-size: 9pt;
+  align-items: center;
+  align-content: center;
+}
+.foot-banner p
+{
+  margin: 0;
+  padding: 5px;
+}
+.foot-banner p button
+{
+  background-color: #aeda23;
+  color: #59164a;
+  font-family: "KG Second Chances Solid";
+  font-size: 9pt;
+  height: 25px;
+  padding: 2.5px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 15px;
+}
