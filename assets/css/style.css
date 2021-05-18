@@ -321,4 +321,25 @@ body
     padding-left: 10px;
     
   }
+  .foot-banner{
+    font-size: 12pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    padding-top: -50px;
+  }
+
+  .foot-banner .btn-primary  
+{
+  background-color: #aeda23;
+  color: #59164a;
+  font-family: "KG Second Chances Solid";
+  font-size: 9pt;
+  height: 50px;
+  margin-left: 15px;
+  width: 170px;
+  border-radius: 20px;
+  border: none;
+}
 }
